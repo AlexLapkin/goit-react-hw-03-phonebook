@@ -1,0 +1,14 @@
+.filter_inp {
+    border: 1px solid gray;
+    width: 200px;
+   height: 25px;
+   border: none;
+   }
+
+.filter_cont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aquamarine;
+    padding-bottom: 30px;
+}
