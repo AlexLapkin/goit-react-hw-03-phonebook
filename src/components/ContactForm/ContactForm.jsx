@@ -70,6 +70,7 @@ render () {
 }
 
 ContactForm.propTypes = {
+  handleAddContact: PropTypes.func,
   name: PropTypes.string,
   number: PropTypes.string,
 }
